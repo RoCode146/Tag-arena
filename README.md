@@ -1,2 +1,11 @@
-# Tag-arena
-Tag Arena is a fast-paced web-based game where players chase, dodge, and tag opponents in an exciting arena. Built with React and Vite, it runs smoothly in any browser—no downloads, no setup. Easy to play, fun to master!
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

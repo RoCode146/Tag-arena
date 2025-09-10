@@ -1,0 +1,5 @@
+{
+  "name": "Tag Arena",
+  "description": "A fast-paced multiplayer tag game where you chase your friends across vibrant, obstacle-filled maps. The last one tagged when the timer runs out loses!",
+  "requestFramePermissions": []
+}
